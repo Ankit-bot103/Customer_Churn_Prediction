@@ -163,6 +163,15 @@ python src/create_project_slides.py
 streamlit run app.py
 ```
 
+## Live Application URLs
+
+- Local URL: http://localhost:8501
+- Network URL: http://172.16.0.2:8501
+
+## GitHub Repository
+
+https://github.com/Ankit-bot103/Customer_Churn_Prediction
+
 ## Project Outputs
 
 This project produces:
