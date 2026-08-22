@@ -1,49 +1,49 @@
 # Project Summary
 
 ## Title
-Customer Churn Prediction for Retention Strategy
+Customer Churn Prediction for Retention Analytics
 
 ## Objective
-To build a predictive model that identifies customers at high risk of churn and helps a business reduce customer loss through targeted retention strategies.
+To build a predictive analytics solution that identifies customers at high risk of churn and supports business retention strategies through early intervention and data-driven decision-making.
 
 ## Problem Statement
-Customer churn is a major challenge for service-based and subscription-based businesses. When customers leave, the company experiences reduced revenue, weaker customer lifetime value, and increased cost of acquisition for replacement customers.
+Customer churn is a major challenge for service-based and subscription-based organizations. When customers leave, companies lose revenue, reduce customer lifetime value, and increase the cost of customer acquisition. Predicting churn before it happens gives businesses a strategic advantage.
 
 ## Approach
-The project follows a full machine learning workflow:
+The project follows a professional machine learning workflow:
 
-- customer data preparation
+- customer data preparation and validation
 - exploratory data analysis
-- feature preprocessing
-- model comparison
-- metric-based evaluation
-- business interpretation of results
-- interactive prediction deployment
+- feature preprocessing and transformation
+- model comparison and optimization
+- model evaluation using business-relevant metrics
+- feature explainability using SHAP
+- deployment through an interactive dashboard
 
 ## Data and Features
-The data includes customer characteristics such as tenure, contract type, payment method, internet service, support coverage, billing behavior, and monthly charges. These variables help determine whether a customer is likely to leave.
+The data includes customer attributes such as tenure, contract type, payment behavior, monthly charges, internet service type, support coverage, billing pattern, and other service indicators. These variables help explain churn risk and support proactive retention decisions.
 
 ## Methodology
 1. Clean and validate the dataset
-2. Analyze churn patterns and risk indicators
+2. Analyze churn patterns and customer behaviors
 3. Preprocess categorical and numerical features
-4. Train multiple machine learning models
-5. Compare performance using accuracy, precision, recall, F1-score, and ROC-AUC
-6. Use SHAP to explain feature importance
-7. Deploy the final model in a Streamlit application
+4. Train and compare multiple machine learning models
+5. Evaluate performance using accuracy, precision, recall, F1-score, and ROC-AUC
+6. Use SHAP for feature explanation and model transparency
+7. Deploy the final solution as a practical Streamlit application
 
 ## Key Results
-The model shows strong predictive ability for identifying churn risk. The most influential features include:
+The model shows strong predictive power for churn detection. The most influential risk drivers include:
 
-- tenure duration
-- contract type
-- monthly charges
-- support coverage
-- payment method
-- internet service
+- shorter customer tenure
+- month-to-month contract structures
+- higher monthly charges
+- limited technical support
+- payment method patterns
+- internet service quality and usage type
 
 ## Business Value
-This project supports data-driven decision-making for customer retention teams and provides a practical way to prioritize intervention strategies for vulnerable customer groups.
+This project supports strategic customer retention by allowing organizations to prioritize at-risk segments, design targeted interventions, and improve revenue protection through predictive insight.
 
 ## Tools and Technologies
 - Python
@@ -56,7 +56,7 @@ This project supports data-driven decision-making for customer retention teams a
 - Streamlit
 
 ## Outcome
-The project provides a strong example of how machine learning can solve a real business problem and generate valuable insights for strategic decision-making.
+The project demonstrates how analytical modeling can be translated into business value through stronger retention planning, smarter customer engagement, and more confident decision-making.
 
 ## Interview Talking Point
-This project demonstrates my ability to translate a business problem into a machine learning solution, evaluate model performance, and communicate the impact in a clear, business-oriented way.
+This project showcases my ability to turn a real business challenge into a production-style machine learning workflow, evaluate model performance, explain insights to stakeholders, and deploy a usable solution.

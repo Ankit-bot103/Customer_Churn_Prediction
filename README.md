@@ -1,10 +1,10 @@
-# Customer Churn Prediction: Executive-Level ML Portfolio Project
+# Customer Churn Prediction for Retention Analytics
 
 ## Executive Summary
 
-This project is designed to solve a high-value business problem: predicting which customers are likely to churn so that a company can take proactive retention actions before revenue is lost. By combining data analysis, machine learning, and business interpretation, this project demonstrates how predictive analytics can support customer retention strategy and strategic decision-making.
+This project is a high-impact customer retention analytics solution designed to predict which customers are likely to churn and help businesses take proactive action before revenue is lost. It combines machine learning, data analysis, explainability, and deployment into a polished, business-oriented portfolio project that reflects real-world decision-making in customer success and retention teams.
 
-The solution includes data preparation, exploratory analysis, model development, evaluation, explainability, and an interactive prediction interface. The project is structured to look like a real-world business analytics initiative rather than a simple academic exercise.
+The solution includes data preparation, exploratory analysis, model training, evaluation, SHAP explainability, and an interactive prediction dashboard. This project is structured to demonstrate practical business value, not just academic model training.
 
 ## Business Problem
 
